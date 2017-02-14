@@ -2,7 +2,7 @@
 
 Rounded is an accounting and invoicing tool that is better suited for freelancers and sole traders.
 
-![](/assets/rounded_overview.png)
+![](/assets/overview.png)
 
 You can use Rounded to:
 

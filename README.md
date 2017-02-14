@@ -1,1 +1,13 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+# Welcome to Rounded help
+
+G'day! Thanks for selecting Rounded for your invoicing, time tracking and accounting. Rounded is an online tool ideal for freelancers and sole traders.
+
+Before you start using Rounded, we recommend you set up the following to make it easy for you:
+
+* Your business details \(ABN, Bank accounts\) for setting up bank information
+* Client, Vendor and Project information
+* _More info_
+
+Once you have set up your account correctly, you can start tracking your time against your projects, generate quotes, create and send invoices and start receiving payments.
+
+Let's get started, shall we?

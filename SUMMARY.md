@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-
 ### Getting Started
 * [Overview](getting-started/overview.md)
 * [Setting up your account](getting-started/setting-up-your-account.md)

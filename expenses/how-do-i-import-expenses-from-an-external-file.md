@@ -1,12 +1,13 @@
-# Connecting to a bank account
+# Importing expenses
 
-The Bank Connect feature enables you to connect bank account/s or credit card/s to your Rounded account, so you can see all of your transactions in one place.
-Use the **Bank Connect** page to add and manage bank accounts and credit cards associated with your account.
+The Importing expenses feature allows you to import expenses from an external file \(QIF or CSV formats\), in order for you to manually add expenses to your Rounded account.
 
-## To add a bank account
+## To import expenses from an external file
 
-1. Log in to Rounded and from the top menu, navigate to **Money > Bank Connect**.  
-   The Transactions page displays.
+1. Log in to Rounded and from the top menu, navigate to **Money &gt; Expenses**.  
+   The Expenses page/tab displays.
 
-2. Click **Bank Settings**. 
-   The Connected bank accounts panel slides out on the right.
+2. From the Import drop-down, select one of From QIF file or From CSV file.  
+
+
+

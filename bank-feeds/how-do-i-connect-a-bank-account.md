@@ -20,7 +20,7 @@ Use the **Bank Connect** page to add and manage bank accounts and credit cards a
    A list of your accounts is displayed.
    
 6. Select the account/s you want to connect to your Rounded account and click **Connect Accounts**.
-   All your transactions associated with the selected account/s are retrieved and added to your Rounded account.
+   All your transactions associated with the selected accounts are retrieved and added to your Rounded account.
    **Note**: It could take a few minutes to retrieve all your transactions, so do not close or go away from this page.
    
    

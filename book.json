@@ -1,21 +1,7 @@
 {
-"plugins": [
-"-sharing",
-"theme-faq",
-"-theme-default",
-"-copy-code",
-"-headings"
-],
-"pluginsConfig": {
-"lunr": {
-"maxIndexSize": 1000000,
-"ignoreSpecialCharacters": true
-},
-"hints": {
-"info": "fa fa-info-circle",
-"tip": "fa fa-mortar-board",
-"danger": "fa fa-exclamation-circle",
-"working": "fa fa-wrench"
-}
-}
+    "plugins": [
+        "theme-faq",
+        "-fontsettings",
+        "-sharing"
+    ]
 }

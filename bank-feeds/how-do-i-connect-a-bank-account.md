@@ -5,16 +5,25 @@ Use the **Bank Connect** page to add and manage bank accounts and credit cards a
 
 ## To add a bank account
 
-1. Log into Rounded and from the top menu, navigate to **Money > Bank Connect**.  
-   The Connect your bank account page displays.
+1. Log in to Rounded and from the top menu, navigate to **Money > Bank Connect**.  
+   The Transactions page displays.
 
-2. From the list, select the bank you would like to connect to your account. This can be your savings, cheque or credit card issuing bank.  
-   The New Client panel slides out on the right.  
+2. Click **Bank Settings**. 
+   The Connected bank accounts panel slides out on the right.
+   
+3. Under **Connect a bank account**, select the bank you would like to connect to your account. This can be your savings, cheque or credit card issuing bank.
+![](/assets/Connect_bank_account.png)
+   
+4. Click **Connect**. 
 
-3. Type in the client details, including client type, currency \(you will quote/invoice the client by\) and address.
-
-4. Click **Save Client** to save client details.  
-   The client is now added to the **Clients** page.
+5. Type in your bank id and password and click **Login**.
+   A list of your accounts is displayed.
+   
+6. Select the account/s you want to connect to your Rounded account and click **Connect Accounts**.
+   All your transactions associated with the selected account/s are retrieved and added to your Rounded account.
+   **Note**: It could take a few minutes to retrieve all your transactions, so do not close or go away from this page.
+   
+   
 
 
 

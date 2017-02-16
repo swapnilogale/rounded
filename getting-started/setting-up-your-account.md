@@ -1,6 +1,6 @@
-# Setting up your account
+# How do I change my settings?
 
-Here are some things you need to set up, before you start using Rounded.
+You can use the Settings page under My Account to customise your business information, invoices and quotes, credit cards and emails and reminders.
 
 * **Your details** - Type in your name, business email address, business name and Australian Business Number \(ABN\).
 * **Invoice and quote settings** - Make changes to your invoice and quote settings using these options:

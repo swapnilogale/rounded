@@ -1,4 +1,4 @@
-# How do I change my settings?
+# How do I customise my settings?
 
 You can use the Settings page under My Account to customise your business information, invoices and quotes, credit cards and emails and reminders.
 

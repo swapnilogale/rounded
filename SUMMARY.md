@@ -23,4 +23,5 @@
 
 * [How do I connect a bank account?](bank-feeds/how-do-i-connect-a-bank-account.md)
 * [Can I add another bank account?](bank-feeds/can-i-add-another-bank-account.md)
+* [Where can I manage my connected bank account/s?](bank-feeds/where-can-i-manage-my-connected-bank-accounts.md)
 

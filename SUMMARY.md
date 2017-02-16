@@ -15,6 +15,7 @@
 
 ## Expenses
 
+* [Overview](expenses/overview.md)
 * [Can I import expenses from an external file?](expenses/how-do-i-import-expenses-from-an-external-file.md)
 * [Where do I manage expenses?](expenses/how-do-i-manage-expenses.md)
 

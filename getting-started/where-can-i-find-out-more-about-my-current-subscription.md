@@ -1,4 +1,4 @@
-# Where can I find out more about subscriptions?
+# How can I upgrade my subscription/plan?
 
 Use the **Subscriptions** tab \(under **My Account**\) to find out more or upgrade to a new subscription plan.
 
@@ -12,7 +12,7 @@ The top section displays the number of days remaining on your trial.
 
 ### To upgrade to a paid subscription
 
-1. On the **Subscription** page, select the plan you want to upgrade to, and click **Start Monthly Subscription **or** Start Annual Subscription**.
+1. On the **Subscription** page, select the plan you want to upgrade to, and click **Start Monthly Subscription **or** Start Annual Subscription**.  
    The plan confirmation box displays.  
    ![](/assets/UpgradeSubs.png)
 

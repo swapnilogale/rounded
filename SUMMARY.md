@@ -4,7 +4,14 @@
 
 * [Introduction](README.md)
 * [Overview](getting-started/overview.md)
-* [Setting up your account](getting-started/setting-up-your-account.md)
+* [What's on the Dashboard?](what's-on-the-dashboard.md)
+
+## Account
+
+* Where do I manage my account?
+* [How do I change my settings?](getting-started/setting-up-your-account.md)
+* Where can I find out more about my current subscription?
+* How do I import from data from other systems?
 
 ## Expenses
 

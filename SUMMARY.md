@@ -10,7 +10,7 @@
 
 * [Where do I manage my account?](getting-started/where-do-i-manage-my-account.md)
 * [How do I customise my settings?](getting-started/setting-up-your-account.md)
-* [Where can I find out more about my current subscription?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
+* [Where can I find out more about subscriptions?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [How do I import from data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
 
 ## Expenses

@@ -1,6 +1,6 @@
 # Where do I manage my account?
 
-The **My Account** section allows you to change and manage your personal or business details. You can use this section to:
+The **My Account** tab allows you to change and manage your personal or business details. You can use this tab to:
 
 * Change your personal details, including name and email address
 * Change password

@@ -10,3 +10,14 @@ The top section displays the number of days remaining on your trial.
 
 ![](/assets/Subs.png)
 
+### To upgrade to a paid subscription
+
+1. On the **Subscription** page, select the plan you want to upgrade to, and click **Start Monthly Subscription **or** Start Annual Subscription**.
+   The plan confirmation box displays.  
+   ![](/assets/UpgradeSubs.png)
+
+2. Type in an email address, your credit card details and click **Start Subscription**.  
+   Your account will be upgraded to the selected subscription.
+
+
+

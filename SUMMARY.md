@@ -22,4 +22,5 @@
 ## Bank feeds
 
 * [How do I connect a bank account?](bank-feeds/how-do-i-connect-a-bank-account.md)
+* [Can I add another bank account?](bank-feeds/can-i-add-another-bank-account.md)
 

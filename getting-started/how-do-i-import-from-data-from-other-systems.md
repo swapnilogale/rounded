@@ -18,6 +18,9 @@ b. Xero
 c. FreshBooks
 
 4. Complete the data import using the steps displayed for each system.
+![](/assets/Rounded_importoptions.png)
+
+
 
 
 

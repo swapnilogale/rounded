@@ -11,7 +11,7 @@
 * [Where do I manage my account?](getting-started/where-do-i-manage-my-account.md)
 * [How do I customise my settings?](getting-started/setting-up-your-account.md)
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
-* [How do I import data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
+* [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
 
 ## Expenses
 

@@ -11,7 +11,7 @@
 * [Where do I manage my account?](getting-started/where-do-i-manage-my-account.md)
 * [How do I customise my settings?](getting-started/setting-up-your-account.md)
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
-* [How do I import from data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
+* [How do I import data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
 
 ## Expenses
 
@@ -24,4 +24,5 @@
 * [How do I connect a bank account?](bank-feeds/how-do-i-connect-a-bank-account.md)
 * [Can I add another bank account?](bank-feeds/can-i-add-another-bank-account.md)
 * [Where can I manage my connected bank account/s?](bank-feeds/where-can-i-manage-my-connected-bank-accounts.md)
+* [Can I manually import transactions?](bank-feeds/can-i-manually-import-transactions.md)
 

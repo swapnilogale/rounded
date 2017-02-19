@@ -7,7 +7,8 @@ Yes, you can manually import transactions using QIF or CSV file formats. This al
 ### To manually import transactions
 
 1. From the top menu, click **Money > Expenses**.
-   If you have not set up expenses before, the **Keep Track of Expenses** option displays. 
+   If you have not set up expenses before, the **Keep Track of Expenses** option displays.
+   
   ![](/assets/Rounded_AddExp.png)
   **Note**: If you have already set up expenses, a list of expenses displays.
    

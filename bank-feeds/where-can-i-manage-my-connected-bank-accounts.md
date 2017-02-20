@@ -1,6 +1,8 @@
 # Where can I manage my connected bank account?
 
-Use the **Bank Connect** page to add and manage bank accounts and credit cards associated with your account. If you have multiple accounts within your bank, you can specify what accounts you want connected with Rounded. This will help you reconcile your expenses if you have set up a separate account for your business.
+Use the **Bank Connect** page to add and manage bank accounts and credit cards associated with your account. 
+
+If you have multiple accounts within your bank, you can specify what accounts you want connected with Rounded. This will help you reconcile your expenses if you have set up separate account/s for your business.
 
 ### To manage currently connected bank accounts
 

@@ -10,8 +10,11 @@ If you have already connected to a bank account previously, you can use the Bank
    The Transactions page displays. 
 2. Click **Bank Settings**. 
    The Connected bank accounts panel slides out on the right.
-3. Under **Connect your bank account**, select the bank account you would like to delete and click the **Delete** icon.
+3. Under **Connect your bank account**, select the bank account you would like to delete and click the **Delete** icon. 
 ![](/assets/Rounded_deleteBA.png)
+A warning message displays. 
+![](/assets/Rounded_deletewarning.png)
 
-   The selected bank account is deleted from your Rounded account.
+4. Click **Delete it Now**. 
+   The selected bank account is deleted from your Rounded account. You will lose all transactions linked to that account in Rounded.
 

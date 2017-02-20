@@ -12,7 +12,7 @@ The top section displays the number of days remaining on your trial.
 
 ### To upgrade to a paid subscription
 
-1. From the top menu, click the thumbnail on the top right and select **Settings**.
+1. From the top menu, click the thumbnail on the top right and select **Settings**. 
 ![](/assets/Rounded_Settings.png)
 
 2. Click **Subscription** tab.

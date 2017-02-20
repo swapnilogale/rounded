@@ -23,6 +23,7 @@
 
 * [How do I connect a bank account?](bank-feeds/how-do-i-connect-a-bank-account.md)
 * [Can I add another bank account?](bank-feeds/can-i-add-another-bank-account.md)
+* [How do I delete an existing bank account?](bank-feeds/how-do-i-delete-a-bank-account.md)
 * [Where can I manage my connected bank account/s?](bank-feeds/where-can-i-manage-my-connected-bank-accounts.md)
 * [Can I manually import transactions?](bank-feeds/can-i-manually-import-transactions.md)
 

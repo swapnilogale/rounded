@@ -11,6 +11,8 @@ If you have multiple accounts within your bank, you can specify what accounts yo
 2. Click **Bank Settings**.
    The connected bank account panel slides out from the right.
 3. On the Connected bank accounts panel, select or deselect the accounts you want to associate with your Rounded account. 
+
+![](/assets/Rounded_bankaccts.png)
 4. Click **Save** to save your changes.
 
 

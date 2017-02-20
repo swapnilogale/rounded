@@ -4,17 +4,16 @@ If you do not have the Bank Connect feature enabled on your account \(Basic acco
 
 ## To import expenses from an external file
 
-1. Log in to Rounded and from the top menu, navigate to **Money &gt; Expenses**.  
-   The Expenses page/tab displays.
-
-2. From the Import drop-down, select one of From QIF file or From CSV file.  
-   The Import expenses panel slides out from the right.   
-   ![](/assets/ImportQIF.png)![](/assets/ImportCSV.png)
-
-3. Upload a file \(QIF or CSV format\) from a folder location.  
-   **Note**:If you do not select a QIF or CSV file, the import Expenses page displays an error message.
-
-4. Click **Import Now** to complete the import process.
-
-
-
+1. From the top menu, click **Money > Expenses**.
+   If you have not set up expenses before, the **Keep Track of Expenses** option displays.
+   
+  ![](/assets/Rounded_AddExp.png)
+  
+  **Note**: If you have already set up expenses, a list of expenses displays.
+   
+2. From the Import drop-down, select **QIF** or **CSV** file. 
+   The **Import expenses** page displays in the side panel.
+   
+3. Select the file (CSF or QIF) and click **Import Now**. 
+   The transactions are now imported into Rounded and displayed on the **Expenses** tab.
+   ![](/assets/Rounded_importedexp.png)

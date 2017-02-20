@@ -6,8 +6,8 @@ Yes. Rounded allows you to integrate Stripe with your Rounded account, so that c
 
 ### To set up your Rounded account for Stripe
 
-1. Log in to Rounded and from the top menu, click the thumbnail on the top right and select **My account**.
-![](/assets/MyAccount.png)
+1. Log in to Rounded and from the top menu, click the thumbnail on the top right and select **Settings**.
+![](/assets/Rounded_Settings.png)
 
 2. Under **Accept Credit Cards**, click **Connect Stripe**.
    The Rounded-Stripe integration page displays.

@@ -27,3 +27,16 @@
 * [Where can I manage my connected bank account/s?](bank-feeds/where-can-i-manage-my-connected-bank-accounts.md)
 * [Can I manually import transactions?](bank-feeds/can-i-manually-import-transactions.md)
 
+## Time Tracking
+
+* [Can I track time against a project?](time-tracking/can-i-track-time-against-a-project.md)
+
+## Projects
+
+* [Overview](projects/overview.md)
+* [Where do I create a new project?](projects/how-do-i-create-a-new-project.md)
+
+## Reports
+
+* [Overview](reports/overview.md)
+

@@ -1,6 +1,6 @@
 # How can I upgrade my subscription/plan?
 
-Use the **Subscriptions** tab \(under **My Account**\) to find out more or upgrade to a new subscription plan.
+Use the **Subscription** tab \(under **My Account**\) to find out more or upgrade to a new subscription plan.
 
 If you are new to Rounded, and still on a free trial, you can upgrade your account at any stage using this tab.
 

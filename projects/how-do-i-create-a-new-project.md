@@ -1,3 +1,5 @@
+# Where do I create a new project?
+
 a. To create a new project, click **New Project**.
    The **New Project** panel slides out from the right. 
    

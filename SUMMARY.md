@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Overview](getting-started/overview.md)
-* [What's on the Dashboard?](what's-on-the-dashboard.md)
+* [\[What's on the Dashboard?\]\(what's-on-the-dashboard.md\)](what's-on-the-dashboard\(what's-on-the-dashboard.md\).md)
 
 ## Account
 

@@ -8,5 +8,5 @@ When you log in to Rounded, the Dashboard is the first thing you see. It display
 * Top expenses
 * Set some goals
 
-It may seem a little empty when you first log in, but once you start invoicing clients and getting paid, the dashboard will start displaying all the relevant information you need to give you a bird's eye view of your business income, expenses and cashflow.
+**Tip**: It may seem a little empty when you first log in, but once you start invoicing clients and getting paid, the dashboard will start displaying all the relevant information you need to give you a bird's eye view of your business income, expenses and cashflow.
 

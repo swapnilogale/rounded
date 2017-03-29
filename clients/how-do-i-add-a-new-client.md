@@ -24,9 +24,12 @@ Use the **Clients** tab to add or manage client information. The Clients page di
 | Address | Type in an address for the individual. |
 | **For Company** |  |
 | Company Name | Type in the name of the company. Note: The company name is displayed on the invoice. |
-|  | Currency |
-|  |  |
-| Contacts |  |
+| Currency | Select the currency you will use to invoice the client. |
+| Address | Type in an address for the company. |
+| Contacts | To add a contact for the company, click Add a Contact and type in the contact details.  |
+
+4. Click **Save Client** to save your changes.  
+The client details are added and displayed on the Clients page.
 
 
 

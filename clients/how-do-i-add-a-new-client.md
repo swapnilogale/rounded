@@ -17,15 +17,15 @@ Use the **Clients** tab to add or manage client information. The Clients page di
 | Client Type | Select from Individual or Company. **Note**: You have the ability to change client type after you have added a client. |
 | **For Individuals** |  |
 | Name | Type in the name of the individual. Note: This name will appear on the invoice. |
-| Business Name | Type in the name of the business.  |
+| Business Name | Type in the name of the business. |
 | Currency | Select the currency you will use to invoice/charge the client or project. |
 | Email | Type in an email for the individual. |
-| Phone | Type in phone details of the indivudual. |
+| Phone | Type in phone details of the individual. |
 | Address | Type in an address for the individual. |
 | **For Company** |  |
-| Company Name |  |
-| Currency |  |
-| Address |  |
+| Company Name | Type in the name of the company. Note: The company name is displayed on the invoice. |
+|  | Currency |
+|  |  |
 | Contacts |  |
 
 

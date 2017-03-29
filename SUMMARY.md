@@ -14,6 +14,10 @@
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
 
+## Clients
+
+* [How do I add a new client?](clients/how-do-i-add-a-new-client.md)
+
 ## Expenses
 
 * [Overview](expenses/overview.md)

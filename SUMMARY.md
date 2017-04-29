@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [Overview](getting-started/overview.md)
-* [What's on the dashboard?](whats-on-the-dashboardwhats-on-the-dashboardmdwhats-on-the-dashboardwhats-on-the-dashboardmdmd.md)
 
 ## Account
 
@@ -13,10 +12,6 @@
 * [Can I accept payments via a credit card?](getting-started/can-i-accept-payments-via-a-credit-card.md)
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
-
-## Clients
-
-* [How do I add a new client?](clients/how-do-i-add-a-new-client.md)
 
 ## Expenses
 

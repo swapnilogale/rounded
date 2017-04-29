@@ -15,7 +15,7 @@ Depending on your browser settings, the income report is displayed as a PDF.
 1. From the top menu, navigate to the report you want to export data from. For example, **Reports > Expense**. The Expense report page displays. The expense report displays all the expenses (credit card fees etc) for the current financial year by default.
 
 2. Click **Export CSV**.
-![](/assets/Exp_exportCSV.png)
+![](/assets/Exp_exportCSV.png)    
 A dialog box displays asking you to open or save the CSV file.
 
 3. Click **Open** with to open the file directly with MS Excel (or an appropriate program), or click **Save** to save your file to your local drive.

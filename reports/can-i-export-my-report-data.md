@@ -5,10 +5,9 @@ Yes, you can export data from the income, expenses and profit & loss reports.
 1. From the top menu, navigate to the report you want to export data from. For example, **Reports > Income**. The Income report page displays. The income report displays all the income for the current financial year by default.
 
 2. Click **Export PDF**. 
-
 ![](/assets/income_exportPDF.png)
-
 Depending on your browser settings, the income report is displayed as a PDF.
+
 3. Click **Download** or **Save** to save the report as a PDF to your local drive.
 
 ## Export to CSV

@@ -13,6 +13,10 @@
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
 
+## Clients
+
+* [Can I add clients manually?](clients/can-i-add-clients-manually.md)
+
 ## Quotes
 
 * [How do I send quotes to clients?](quotes/how-do-i-send-quotes-to-clients.md)

@@ -11,4 +11,4 @@ A list of clients currently active in the system is displayed.
 
 2. From the Import drop-down select Harvest or Xero. 
 
- a. Harvest - Log in to your Harvest account and export your client information 
+ a. Harvest - Log in to your Harvest account and export your client information  

@@ -10,3 +10,5 @@ A list of clients currently active in the system is displayed.
 **Tip**: By default, this page will only display all active clients. Use the drop-down to view archived clients.
 
 2. From the Import drop-down select Harvest or Xero. 
+
+ a. Harvest - Log in to your Harvest account and export your client information 

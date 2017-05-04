@@ -9,7 +9,7 @@ A list of clients currently active in the system is displayed.
 **Tip**: By default, this page will only display all active clients. Use the drop-down to view archived clients.
 
 2. Click **New Client.
-**![](/assets/NewClient.png)
+![](/assets/NewClient.png)
 The client info panel slides out from the right.
 
 3. On the Client info panel, select the client type an individual or a company. Depending on the type of client you select, the rest of client information fields change automatically.

@@ -16,6 +16,7 @@
 ## Clients
 
 * [Can I add clients manually?](clients/can-i-add-clients-manually.md)
+* [How do I import client data from other systems?](clients/how-do-i-import-client-data-from-external-systems.md)
 
 ## Quotes
 

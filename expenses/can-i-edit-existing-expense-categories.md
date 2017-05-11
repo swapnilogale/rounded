@@ -1,4 +1,4 @@
-# Can I edit existing expense categories?
+# How do I edit existing expense categories?
 
 You can edit expense categories to suit your particular business setup. 
 Use the **Categories** tab under Expenses to edit and manage expense categories.

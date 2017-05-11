@@ -27,6 +27,7 @@
 * [Overview](expenses/overview.md)
 * [Can I import expenses from an external file?](expenses/how-do-i-import-expenses-from-an-external-file.md)
 * [Where do I manage expenses?](expenses/how-do-i-manage-expenses.md)
+* [Can I add or delete expense categories?](expenses/can-i-create-custom-expense-categories.md)
 
 ## Bank feeds
 

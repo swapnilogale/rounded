@@ -11,7 +11,7 @@ When you first start using Rounded, it comes with a list of some default vendors
 
 
 **Related items**
-* Add or delete vendor information
+* [Add or delete vendor information](/vendors/can-i-add-or-delete-existing-vendor-information.md)
 * Edit vendor information
 
 

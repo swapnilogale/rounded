@@ -42,6 +42,7 @@
 
 * [Overview](vendors/overview.md)
 * [Can I add or delete existing vendor information?](vendors/can-i-add-or-delete-existing-vendor-information.md)
+* [How do I edit existing vendor information?](vendors/how-do-i-edit-existing-vendor-information.md)
 
 ## Time Tracking
 

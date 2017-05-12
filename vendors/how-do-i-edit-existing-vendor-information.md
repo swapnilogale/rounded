@@ -1,7 +1,7 @@
 # How do I edit existing vendor information?
 
 You can edit vendor information to suit your particular business setup. 
-Use the **Vendors** tab under Expenses to edit and manage expense categories.
+Use the **Vendors** tab under Expenses to edit and manage vendors.
 
 ## To edit an existing vendor information
 

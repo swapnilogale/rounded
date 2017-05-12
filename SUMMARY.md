@@ -38,6 +38,11 @@
 * [Where can I manage my connected bank account/s?](bank-feeds/where-can-i-manage-my-connected-bank-accounts.md)
 * [Can I manually import transactions?](bank-feeds/can-i-manually-import-transactions.md)
 
+## Vendors
+
+* [Overview](vendors/overview.md)
+* [Can I add or delete existing vendor information?](vendors/can-i-add-or-delete-existing-vendor-information.md)
+
 ## Time Tracking
 
 * [Can I track time against a project?](time-tracking/can-i-track-time-against-a-project.md)

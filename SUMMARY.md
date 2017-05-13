@@ -1,4 +1,4 @@
-# Summary
+[](/vendors/can-i-add-or-delete-existing-vendor-information.md)# Summary
 
 ## Getting Started
 
@@ -27,7 +27,7 @@
 * [Overview](expenses/overview.md)
 * [Can I import expenses from an external file?](expenses/how-do-i-import-expenses-from-an-external-file.md)
 * [Where do I manage expenses?](expenses/how-do-i-manage-expenses.md)
-* [Can I add or delete expense categories?](expenses/can-i-create-custom-expense-categories.md)
+* [Can I add or delete expense categories?](expenses/can-i-add-delete-custom-expense-categories.md)
 * [How do I edit existing expense categories?](expenses/can-i-edit-existing-expense-categories.md)
 
 ## Bank feeds

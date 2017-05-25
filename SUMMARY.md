@@ -54,7 +54,7 @@
 ## Projects
 
 * [Overview](projects/overview.md)
-* [Where do I create a new project?](projects/how-do-i-create-a-new-project.md)
+* [Where do I create a new project?](projects/where-do-i-create-a-new-project.md)
 
 ## Reports
 

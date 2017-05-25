@@ -1,4 +1,4 @@
-[](/vendors/can-i-add-or-delete-existing-vendor-information.md)# Summary
+# Summary
 
 ## Getting Started
 
@@ -46,6 +46,7 @@
 
 ## Time Tracking
 
+* Overview
 * [Can I track time against a project?](time-tracking/can-i-track-time-against-a-project.md)
 * [Can I manually add time spent on a project?](time-tracking/can-i-manually-add-time-spent-on-a-project.md)
 * [How do I delete time entries?](time-tracking/how-do-i-delete-time-entries.md)

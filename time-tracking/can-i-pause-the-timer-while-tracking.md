@@ -1,6 +1,6 @@
-# Can I pause or restart the timer while tracking?
+# Can I pause and restart the timer while tracking?
 
-No, you cannot pause the timer while tracking a task. 
+No, you cannot pause and restart the timer while tracking a task. 
 
 Instead, you can stop the timer and start it again to keep tracking against the client/project. 
 For example, you have logged some time on a client/project and stopped the timer. When you click the start timer next to the tracked time, it will track the time and consolidate the time tracked against the project into a single entry when you are done tracking the hours logged.

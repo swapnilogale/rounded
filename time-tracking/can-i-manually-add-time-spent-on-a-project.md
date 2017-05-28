@@ -18,9 +18,13 @@ See [Where do I create a new project](/projects/where-do-i-create-a-new-project.
 3) Complete the fields as below:
 
    a. **Description**: Add a description of the task. For example, logo design.
+   
    b. **Date**: Select the date for which you want to add the time entry for.
+   
    c. **Project**: Select a project you want to log time against.
+   
    d. **Hourly rate**: This field is automatically populated when you select a project. You can choose for this manual time to be billable or non-billable.
+   
    e. **Hours/Minutes**: Type in the hours/minute spent on this task.
 
 

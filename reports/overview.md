@@ -1,3 +1,5 @@
+# Reports
+
 Rounded comes with a few built-in reports that you can use straight away. These reports derive their data from the income and expenses tabs and are automatically updated as you add or change data on these tabs.
 
 Using Rounded, you can view, manage and export the following reports:

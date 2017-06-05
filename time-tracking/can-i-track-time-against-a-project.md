@@ -1,8 +1,11 @@
 # How do I track time against a project? 
 
 You can keep a track of time spent on a particular project using one of the methods from the Time Tracking page:
+
 a. Tracking time automatically
+
 b. Tracking time manually
+
 c. Duplicating existing time entry
 
 **Before you begin**: We recommend setting up a project (for a client) to track time against, before you start using the Time Tracking feature.

@@ -2,13 +2,14 @@
 
 You can keep a track of time spent on a particular project using one of the methods from the Time Tracking page:
 
-a. Tracking time automatically
+a. **Tracking time automatically** - Track time using Rounded's new timer functionality. Tracked time is grouped by project/client and sorted by dates.
 
-b. Tracking time manually
+b. **Tracking time manually** - Add time manually for a project/client. Manual time is grouped by project/client and sorted by dates.
 
-c. Duplicating existing time entry
+c. **Duplicating existing time entry** - Use this feature to duplicate time entries for similar sort of work against the same project/client.
 
 **Before you begin**: We recommend setting up a project (for a client) to track time against, before you start using the Time Tracking feature.
+
 See [Where do I create a new project](/projects/where-do-i-create-a-new-project.md) for more details.
 
 

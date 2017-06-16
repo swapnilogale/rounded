@@ -36,5 +36,3 @@ c. Click ![**Start Timer**.](/assets/Start_Timer_button.png)
 
 ![](/assets/Add_Time.png)
    
-   
-

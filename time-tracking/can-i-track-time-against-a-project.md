@@ -2,11 +2,11 @@
 
 You can keep a track of time spent on a particular project using one of the methods from the Time Tracking page:
 
-a. **Tracking time automatically**
+a. Tracking time automatically
 
-b. **Tracking time manually**
+b. Tracking time manually
 
-c. **Duplicating existing time entry**
+c. Duplicating existing time entry
 
 **Before you begin**: We recommend setting up a project (for a client) to track time against, before you start using the Time Tracking feature.
 
@@ -36,3 +36,17 @@ c. Click ![**Start Timer**.](/assets/Start_Timer_button.png)
 
 ![](/assets/Add_Time.png)
    
+### Tracking time manually
+See [Tracking time manually](/time-tracking/can-i-manually-add-time-spent-on-a-project.md) for more information.
+
+### To duplicate an existing time entry
+
+1) Hover over the time entry you want to duplicate and from the right, click the ![](/assets/Dropdown.png).
+
+2) Click **Duplicate**. 
+![**](/assets/Duplicate_time.png)
+The Add time entry panel slides out from the right. 
+
+3) Complete the details and click **Save time entry**.
+A duplicate time entry is created and grouped under the same project.
+![](/assets/Duplicate_time_entry.png)

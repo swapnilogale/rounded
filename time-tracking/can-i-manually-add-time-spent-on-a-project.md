@@ -6,7 +6,7 @@ Yes, you can manually add or log time against a project. For example, you were a
 See [Where do I create a new project](/projects/where-do-i-create-a-new-project.md) for more details.
 
 
-### To log time manually
+### To track time manually
 
 1) From the top menu, click **Timer > Time Tracking**.
    The **Time tracking** page displays. 

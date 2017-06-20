@@ -1,6 +1,6 @@
 # Can I manually add time spent on a project? 
 
-Yes, you can manually add time against a project. For example, you were at a client site for a meeting and you need to track this time against the project to be billed to the client. 
+Yes, you can manually add time to a project. For example, you were at a client site for a meeting and you need to track this time against the project to be billed to the client. 
 
 **Before you begin**: We recommend setting up a project (for a client) to track time against, before you start using the **Time Tracking** feature.
 See [Where do I create a new project](/projects/where-do-i-create-a-new-project.md) for more details.
@@ -19,7 +19,7 @@ See [Where do I create a new project](/projects/where-do-i-create-a-new-project.
 
    a. **Description**: Add a description of the task. For example, logo design.
    
-   b. **Date**: Select the date for which you want to add the time entry for. This can be for current date or any date in the past. 
+   b. **Date**: Select the date for which you want to add the time entry for. This can be for the current date or any date in the past. 
    
    c. **Project**: Select a project you want to log time against. 
    **Note**: If you leave the project blank, you can edit it at a later stage.

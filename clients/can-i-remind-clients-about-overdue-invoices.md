@@ -1,11 +1,11 @@
 # Can I remind clients about overdue invoices?
 
-Yes, you can send an automated email to clients about overdue invoices.
+Yes, you can send an automated email to clients about overdue invoices. Only one automatic reminder is sent per overdue invoice.
 
 **Important**: Make sure you mark your invoices as paid before the due date, else your clients may still receive automated emails about overdue invoices.
 
 * If you accept payment via Stripe, Rounded will automatically mark your invoices as paid when you receive payment from your clients. 
-* If your clients pay you via bank transfer, you will have to manually mark the invoices as paid, when you receive the payment.
+* If your clients pay you via bank transfer, you will have to manually mark the invoices as paid, when you receive the payment, else the automatic reminder will be sent even after the invoice has been paid.
 
 
 ### To set up automated emails
@@ -24,5 +24,5 @@ The Subject and Email fields are displayed. These fields are pre-populated with 
 
 3) Click **Save Changes** to set up automated emails. 
 
-
+**Note**: If you have any existing unpaid invoices, automatic reminders will not be sent out for these invoices. The automated invoices feature only works for overdue invoices after the automated emails have been set up.
 

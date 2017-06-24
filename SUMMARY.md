@@ -1,9 +1,18 @@
 # Summary
 
-## Getting Started
+## Welcome to Rounded
 
 * [Introduction](README.md)
 * [Overview](getting-started/overview.md)
+
+## Getting Started
+
+* [Are you ready to invoice your clients?](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
+
+## Clients
+
+* [Can I add clients manually?](clients/can-i-add-clients-manually.md)
+* [How do I import client data from other systems?](clients/how-do-i-import-client-data-from-external-systems.md)
 
 ## Account
 
@@ -12,11 +21,6 @@
 * [Can I accept payments via a credit card?](getting-started/can-i-accept-payments-via-a-credit-card.md)
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
-
-## Clients
-
-* [Can I add clients manually?](clients/can-i-add-clients-manually.md)
-* [How do I import client data from other systems?](clients/how-do-i-import-client-data-from-external-systems.md)
 
 ## Invoices
 

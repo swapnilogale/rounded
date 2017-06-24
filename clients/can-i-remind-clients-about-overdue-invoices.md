@@ -16,7 +16,7 @@ Yes, you can send an automated email to clients about overdue invoices. Only one
 
 The **Settings** page displays.
 
-2) Under **Remmind clients of overdue invoices**, slide the toggle to **On**.
+2) Under **Remind clients of overdue invoices**, slide the toggle to **On**.
 
 ![](/assets/RemindClients.png)
 

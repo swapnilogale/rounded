@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-* [Are you ready to invoice your clients?](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
+* [Invoicing your clients](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
 
 ## Clients
 

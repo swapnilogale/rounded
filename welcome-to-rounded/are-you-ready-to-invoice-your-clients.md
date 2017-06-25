@@ -1,6 +1,6 @@
-# Are you ready to invoice your clients?
+# Invoicing your clients
  
-This tutorial walks you through the key steps of sending an invoice to your clients using Rounded.
+This tutorial walks you through the key steps of sending an invoice to your clients. Using Rounded, you can invoice your clients in three steps. 
 
 ## Here's the story...
 
@@ -18,13 +18,55 @@ A list of your clients will be available on the **Clients** page, accessible fro
 
 Once you have created a client, you can create an invoice against the client. 
 
-**To create a new invoice:**
+**Create and complete a new invoice:**
 
 1) Log in to Rounded and from the top menu, navigate to **Invoices &gt; Invoices**.  
-  The Invoices page displays.
+   The Invoices page displays.
 
 2) On the Invoices page, click **New Invoice**.
-The New invoice for panel slides out from the right. 
+![](/assets/NI.png)
+   The New invoice for panel slides out from the right. 
 
 3) Click the client you created in Step 1.
-A new invoice is created and the draft is displayed.  
+   A new invoice is created and the draft invoice is displayed.  
+![](/assets/DI.png)
+
+4) Complete the following:
+
+a. Company Name (Under From), ABN and Address
+b. General description
+c. Description of work done
+d. Hours worked
+e. Rate quoted to the client
+f. Is the invoice amount applicable for GST
+
+**Customise your invoice **
+
+Once you have filled in the invoice details, you can customise your invoice by uploading your logo. 
+
+To upload your logo:
+
+1) On the draft invoice, click **Upload your logo**.
+An explorer dialog displays.
+
+2) Navigate to and click the logo you want to upload to the invoice.
+
+3) Click **OK** to upload the logo.
+Your logo is now uploaded and displayed on the invoice.
+
+### Step 3: Send your invoice to the client
+
+Before you send the invoice to the client, preview (using the Preview button) the invoice to make sure you have completed all the fields and uploaded your logo.
+
+1) To send the invoice, click **Ready to Send**.
+A new panel slides out from the right. This email is automatically pre-populated with information from the invoice.
+![](/assets/ReadyToSend.png)
+
+2) Type in the email address for the client and modify any email details, if needed.
+**Note**: By default, this email will be sent to your email address as a BCC recipient. You will also see the invoice link that is sent to the client for paying the invoice.
+
+3) Click **Send Invoice**.
+The invoice is sent to the client via email. 
+
+
+

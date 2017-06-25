@@ -34,10 +34,15 @@ Once you have created a client, you can create an invoice against the client.
 4) Complete the following:
 
 a. Company Name (Under From), ABN and Address
+
 b. General description
+
 c. Description of work done
+
 d. Hours worked
+
 e. Rate quoted to the client
+
 f. Is the invoice amount applicable for GST
 
 **Customise your invoice **
@@ -60,6 +65,7 @@ Before you send the invoice to the client, preview (using the Preview button) th
 
 1) To send the invoice, click **Ready to Send**.
 A new panel slides out from the right. This email is automatically pre-populated with information from the invoice.
+
 ![](/assets/ReadyToSend.png)
 
 2) Type in the email address for the client and modify any email details, if needed.

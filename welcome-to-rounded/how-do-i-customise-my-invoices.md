@@ -3,7 +3,9 @@
 You can use the Settings page under My Account to customise your business information, invoices and quotes, credit cards and emails and reminders.
 
 1) Log in to Rounded and from the top menu, click the thumbnail on the top right and select **Settings**.
+
 ![](/assets/Rounded_Settings.png)
+
 The **Settings** page displays.
 
 2) Under **Invoice and Quote settings**, complete the following fields:

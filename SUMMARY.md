@@ -5,9 +5,10 @@
 * [Introduction](README.md)
 * [Overview](getting-started/overview.md)
 
-## Getting Started
+## Invoices
 
 * [Invoicing your clients](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
+* [How do I customise my invoices?](welcome-to-rounded/how-do-i-customise-my-invoices.md)
 
 ## Clients
 

@@ -7,8 +7,10 @@
 
 ## Invoices
 
-* [Invoicing your clients](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
+* [How do I create a new invoice?](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
 * [How do I customise my invoices?](welcome-to-rounded/how-do-i-customise-my-invoices.md)
+* [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)
+* [How do I send my invoice to the client?](welcome-to-rounded/how-do-i-send-my-invoice-to-the-client.md)
 
 ## Clients
 
@@ -22,10 +24,6 @@
 * [Can I accept payments via a credit card?](getting-started/can-i-accept-payments-via-a-credit-card.md)
 * [How can I upgrade my subscription/plan?](getting-started/where-can-i-find-out-more-about-my-current-subscription.md)
 * [Can I import client data from other systems?](getting-started/how-do-i-import-from-data-from-other-systems.md)
-
-## Invoices
-
-* [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)
 
 ## Quotes
 

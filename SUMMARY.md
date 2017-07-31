@@ -7,6 +7,7 @@
 
 ## Invoices
 
+* [Overview](welcome-to-rounded/overview.md)
 * [How do I create a new invoice?](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
 * [How do I customise my invoices?](welcome-to-rounded/how-do-i-customise-my-invoices.md)
 * [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)

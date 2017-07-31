@@ -9,9 +9,11 @@
 
 * [Overview](welcome-to-rounded/overview.md)
 * [How do I create a new invoice?](welcome-to-rounded/are-you-ready-to-invoice-your-clients.md)
+* [Using the Invoice options](welcome-to-rounded/using-the-invoice-editor-page.md)
 * [How do I customise my invoices?](welcome-to-rounded/how-do-i-customise-my-invoices.md)
-* [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)
 * [How do I send my invoice to the client?](welcome-to-rounded/how-do-i-send-my-invoice-to-the-client.md)
+* [Can I revert sent invoices to draft?](welcome-to-rounded/can-i-revert-sent-invoices-to-draft.md)
+* [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)
 
 ## Clients
 

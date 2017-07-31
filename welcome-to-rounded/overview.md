@@ -1,6 +1,6 @@
 # Invoices
 
-An invoice is an itemised list of goods sent or services provided, with a statement of the sum due for these goods or services. 
+An invoice is an itemised list of goods sent or services provided, with a statement of the sum due for these goods or services, called the **Tax invoice**. 
 
 ## Generating invoices
 

@@ -8,7 +8,7 @@ You can send your invoice to the client from the Draft invoice screen.
 
 **Tip**: Before you send the invoice to the client, preview (using the **Preview** button) the invoice to make sure you have completed all the fields and uploaded your logo.
 
-To send the invoice:
+**To send the invoice**:
 
 1) Open the Invoice you want to send and from the right, click **Ready to Send**.
 
@@ -32,8 +32,3 @@ The invoice is sent to the client via email.
 * **Online invoice link**: Tick this option if you want to send your client a link to your invoice instead of an attached PDF.
 
 * **Attach invoice PDF**: If you click the Attach invoice PDF option, the client will see the invoice as a PDF attachment in their email.
-
-
-
-
-

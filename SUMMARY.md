@@ -11,7 +11,7 @@
 * [How do I create a new invoice?](invoices/are-you-ready-to-invoice-your-clients.md)
 * [Using the Invoice options](invoices/using-the-invoice-editor-page.md)
 * [How do I customise my invoices?](invoices/how-do-i-customise-my-invoices.md)
-* [How do I send my invoice to the client?](invoices/how-do-i-send-my-invoice-to-the-client.md)
+* [Send my invoice to the client](invoices/how-do-i-send-my-invoice-to-the-client.md)
 * [Can I revert sent invoices to draft?](invoices/can-i-revert-sent-invoices-to-draft.md)
 * [Remind clients about overdue invoices](clients/can-i-remind-clients-about-overdue-invoices.md)
 

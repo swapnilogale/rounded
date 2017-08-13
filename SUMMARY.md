@@ -13,7 +13,7 @@
 * [How do I customise my invoices?](invoices/how-do-i-customise-my-invoices.md)
 * [How do I send my invoice to the client?](invoices/how-do-i-send-my-invoice-to-the-client.md)
 * [Can I revert sent invoices to draft?](invoices/can-i-revert-sent-invoices-to-draft.md)
-* [Can I remind clients about overdue invoices?](clients/can-i-remind-clients-about-overdue-invoices.md)
+* [Remind clients about overdue invoices](clients/can-i-remind-clients-about-overdue-invoices.md)
 
 ## Clients
 

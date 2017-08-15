@@ -6,39 +6,32 @@ b. The Invoices page (Invoices > Invoices from the top menu)
 
 ### Before you begin
 
-The first step is to add a client in Rounded. You can either [add a client manually](/clients/can-i-add-clients-manually.md) or [import client data from other systems](/clients/how-do-i-import-client-data-from-external-systems.md). 
+Make sure you have added a client in Rounded. You can either [add a client manually](/clients/can-i-add-clients-manually.md) or [import client data from other systems](/clients/how-do-i-import-client-data-from-external-systems.md). 
+This will ensure you are tracking your invoices and payments accurately against the correct client.
 
-A list of your clients will be available on the **Clients** page, accessible from the top menu.
+A list of all your clients is available on the **Clients** page, accessible from the top menu.
 
-### Create an invoice
-
-Once you have created a client, you can create an invoice against the client. 
-
-**Create a new invoice:**
+### Create a draft invoice
 
 1) Log in to Rounded and from the top menu, navigate to **Invoices &gt; Invoices**.  
-   The Invoices page displays.
+   The **Invoices** page displays.
 
 2) On the Invoices page, click **New Invoice**.
 ![](/assets/NI.png)
    The **New invoice for** panel slides out from the right. 
 
 3) Click the client you want to create the invoice for.
-   A new invoice is created and the draft invoice is displayed.  
-![](/assets/DI.png)
+   A new invoice is created and the draft is displayed.  
+![](/assets/Draft_inv.png)
 
-4) Complete the following:
+4) Complete/Verify the following:
 
-a. Company Name (Under From), ABN and Address
+* **Company Name (Under From), ABN and Address**- This will be automatically populated from when you set up your account on Rounded.
 
-b. General description
+* **General description** - Type in an overall description of the work done on the project.
 
-c. Description of work done
+* **Description of work done, hours worked and rate** - This will be automatically populated if you have used the timer feature to track your time. If you haven't, you can still add individual line items detailing the work done.
 
-d. Hours worked
+* **Is the invoice amount applicable for GST** - Tick this if you charge GST for your work. 
 
-e. Rate quoted to the client
-
-f. Is the invoice amount applicable for GST
-
-
+5) Click **Save Draft** to save your changes.

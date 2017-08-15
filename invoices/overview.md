@@ -1,17 +1,27 @@
 # Invoices
 
-An invoice is an itemised list of goods sent or services provided, with a statement of the sum due for these goods or services, called the **Tax invoice**. 
+An invoice is an itemised list of the services provided or work done on a project. It also includes a statement showing the total amount owing by the client for the work you have completed. 
 
-## Generating invoices
+**Tip:** If your business is registered for GST, this also becomes your **tax invoice**. 
 
-Using Rounded, you can generate an invoice using one or both these ways:
-a. **Automatic**: Rounded will automatically create an invoice for you and list all the time spent on the project as tracked via the Timer feature. 
+## What does an invoice look like in Rounded?
 
-b. **Manual**: You can create an invoice and manually add a list of services provided or work completed on a client project.
-**Note**: You can use existing line items or create new ones as you add these to the invoice.
+In Rounded, an invoice contains the following information:
 
-## Managing invoices
+* **Freelancer information** - Business information such as name, ABN, and address.
+* **Client information** - Information about the client, including client contact details.
+* **Invoice details** - Invoice number, issue and due date.
 
-You can manage (filter, sort, delete, duplicate or generate PDF of) invoices across all your clients using the **Invoices** page. 
+    **Note**: These dates are important as they allow you to track and follow up on payments with your clients.
+    ![](/assets/invoice_look.png)
+    
+* **Description** - Description of the work done on the project. You can add customised items showing the work you undertook.
+* **Hours, Rate and total** - Shows the time spent, the rate for the work and the total amount of the invoice.
+
+    ![](/assets/inv_desc.png)
+* **Payment details** - Displays the various ways your client can pay you for the work. 
+
+    ![](/assets/inv_pay.png)
+
 
 

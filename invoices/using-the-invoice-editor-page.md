@@ -1,6 +1,6 @@
 # Using the Invoice options
 
-Once you have [created an invoice](/welcome-to-rounded/are-you-ready-to-invoice-your-clients.md), you can use one or more of the Invoice options, before you send the invoice to the client.
+You can use the invoice options available in Rounded to manage your invoices.
 
 ![](/assets/Inv_options.png)
 

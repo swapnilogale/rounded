@@ -1,4 +1,4 @@
-# How do I create a new invoice?
+# Create a new invoice
 
 You can create a new invoice either from:
 a. The dashboard, or 
@@ -6,8 +6,7 @@ b. The Invoices page (Invoices > Invoices from the top menu)
 
 ### Before you begin
 
-Make sure you have added a client in Rounded. You can either [add a client manually](/clients/can-i-add-clients-manually.md) or [import client data from other systems](/clients/how-do-i-import-client-data-from-external-systems.md). 
-This will ensure you are tracking your invoices and payments accurately against the correct client.
+Make sure you have added a client in Rounded. You can either [add a client manually](/clients/can-i-add-clients-manually.md) or [import client data from other systems](/clients/how-do-i-import-client-data-from-external-systems.md). This will ensure you are tracking your invoices and payments accurately against the correct client.
 
 A list of all your clients is available on the **Clients** page, accessible from the top menu.
 

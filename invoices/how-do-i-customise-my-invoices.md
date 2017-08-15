@@ -32,3 +32,8 @@ The **Settings** page displays.
 
 3) Click **Save Changes** to make your changes to the account.
 
+## Appearance settings
+
+Use the **Customise** button on the draft invoice page to customise the colours and hide/show relevant fields on the invoice.
+
+![](/assets/custo.png)

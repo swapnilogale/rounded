@@ -34,3 +34,13 @@ A list of all your clients is available on the **Clients** page, accessible from
 * **Is the invoice amount applicable for GST** - Tick this if you charge GST for your work. 
 
 5) Click **Save Draft** to save your changes.
+
+### What next
+
+Once you have created an invoice, you can:
+
+a. **Preview** the invoice to confirm it includes all the information your client will need to pay you for the work.
+
+b. **Customise** the invoice to include/exclude additional fields and appearance.
+
+c. **Send the invoice** to the client.

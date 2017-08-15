@@ -1,6 +1,16 @@
 # How do I customise my invoices?
 
-You can use the Settings page under My Account to customise your business information, invoices and quotes, credit cards and emails and reminders.
+There are 2 ways to customise your invoices:
+
+* Content settings - This refers to the content that is displayed on the invoices, including business information, payment details and email message text.
+
+* Appearance settings - This refers to the way your invoice looks in terms of colour, logos etc.
+
+It is important to customise your invoice to present this information professionally to the clients, so that it makes it easier for them to pay you for your work on time.
+
+## Content settings
+
+Use the **Settings** page under My Account to customise your business information, invoices and quotes, credit cards and emails and reminders.
 
 1) Log in to Rounded and from the top menu, click the thumbnail on the top right and select **Settings**.
 

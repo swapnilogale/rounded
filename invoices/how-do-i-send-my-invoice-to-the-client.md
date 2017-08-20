@@ -1,6 +1,6 @@
 # Sending my invoice to the client
 
-The most critical part of using Rounded is being able to send your invoice to your client, in order to get paid for the work done. An invoice is an accurate representation of the work done on a project for the client.
+The most critical part of using Rounded is being able to send your invoice to your client, in order to get paid for the work done. An invoice is the best representation of the work done on a project for the client.
 
 You can send your invoice to the client from the Draft invoice screen.
 

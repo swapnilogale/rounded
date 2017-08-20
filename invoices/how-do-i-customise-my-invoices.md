@@ -1,4 +1,7 @@
-# How do I customise my invoices?
+# Customise my invoices
+
+The invoice is perhaps the most important document your client will see  coming from your business and hence it is important to present a professional image of your freelance business via the invoice. 
+You can customise your invoice to match your company brand, colours and style. 
 
 There are 2 ways to customise your invoices:
 
@@ -37,3 +40,13 @@ The **Settings** page displays.
 Use the **Customise** button on the draft invoice page to customise the colours and hide/show relevant fields on the invoice.
 
 ![](/assets/custo.png)
+
+You can:
+* **Change the Stripe colour** - the colour as a left border on your invoice.
+* **Change the Heading colour** - the colour for all your headings, example From, To, General Description etc. 
+**Note**: You can also personalise the invoice using the hex colour that matches your brand.
+* **Display client address**: By default, the invoice does not contain the client's mailing address. If you tick this option, the client address is displayed.
+* **Display quantity column**: Tick this option if you want to display the rate and quantity columns on your invoice. 
+**Tip:** There may be instances where you want to charge a flat fee or a separate fee for individual work done on the project, so you may not want to display the rate and quantity columns.
+* **Display purchase order number**: Tick this option if you want to display the purchase order number on the invoice. 
+**Tip:** If this is a one off project for the client, you may want to not have a purchase order number. For ongoing work or projects, it is recommended you track your work using unique purchase order numbers. 

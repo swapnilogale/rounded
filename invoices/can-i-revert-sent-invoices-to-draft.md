@@ -13,7 +13,7 @@ You can revert the sent invoice to draft, make the necessary changes and resend 
 
 The following message displays.
 
-![](/assets/Rev_msg.png)
+![](/assets/RevDraft.png)
 
 3) Click **Yep, make it a draft** to revert the invoice back to draft.
 
